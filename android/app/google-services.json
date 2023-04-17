@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "157673737863",
+    "project_id": "rood-app-bb261",
+    "storage_bucket": "rood-app-bb261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157673737863:android:0b3d32529b825bc4bbb222",
+        "android_client_info": {
+          "package_name": "com.odehapps.offers_2022_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157673737863-s69nntt1jnjqtcfinmaoctsi2d97tlsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odehapps.offers_2022_app",
+            "certificate_hash": "d93d2755d9c4581b2e01902fa1a56faaef5b7c56"
+          }
+        },
+        {
+          "client_id": "157673737863-sgdftrni9tdjc71r7pfuuh7240f2gao6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsiVs9ytrAPyH3OlaOXfjmHKj0UuDYZNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157673737863-sgdftrni9tdjc71r7pfuuh7240f2gao6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "157673737863-gvu6ng450f03c1285hqu1a2nfbobm2rl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.offers2022App"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
